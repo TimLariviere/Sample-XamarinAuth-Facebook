@@ -1,4 +1,4 @@
-﻿namespace Xamarin_FacebookAuth.Droid
+﻿namespace Xamarin_FacebookAuth
 {
     public class Configuration
     {

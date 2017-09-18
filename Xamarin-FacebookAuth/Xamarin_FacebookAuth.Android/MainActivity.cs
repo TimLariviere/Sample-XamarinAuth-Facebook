@@ -2,6 +2,7 @@
 using Android.OS;
 using Android.Widget;
 using System;
+using Xamarin_FacebookAuth;
 using Xamarin_FacebookAuth.Authentication;
 using Xamarin_FacebookAuth.Services;
 
