@@ -1,5 +1,4 @@
 ﻿using System;
-
 using UIKit;
 using Xamarin_FacebookAuth.Authentication;
 using Xamarin_FacebookAuth.Services;

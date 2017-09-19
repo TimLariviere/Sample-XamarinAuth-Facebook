@@ -5,8 +5,8 @@ namespace Xamarin_FacebookAuth.Authentication
 {
     public class FacebookAuthenticator
     {
-        private const string AuthorizeUrl = "https://www.facebook.com/v2.0/dialog/oauth/";
-        private const string RedirectUrl = "http://www.facebook.com/connect/login_success.html";
+        private const string AuthorizeUrl = "https://www.facebook.com/dialog/oauth/";
+        private const string RedirectUrl = "https://www.facebook.com/connect/login_success.html";
         private const bool IsUsingNativeUI = false;
 
         private OAuth2Authenticator _auth;
